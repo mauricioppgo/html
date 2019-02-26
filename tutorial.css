@@ -1,0 +1,91 @@
+body head {
+    font-family: Arial, Sans-serif;
+    font-size: 12pt;
+    color: hsl(261, 66%, 35%);
+    text-align: center
+}
+
+body section main h5 div {
+    font-size: 150%;
+    border: 1px solid black;
+  }
+
+#px {
+    font-size: 18px;
+    line-height: 20px;
+  }
+
+#em {
+    font-size: 30px;
+    border: 1px solid #ad3535;
+}
+
+span {
+    font-size: 0.5em;
+}
+
+#ex {
+    font-size: 2ex;
+    background: hsl(240, 9%, 52%);
+    color: white;
+}
+
+#rem {
+    font-size: 2rem;
+    border: 2px solid red;
+    background: #f37f7f;
+}
+
+#in {
+    font-size: 0.2in;
+    line-height: 0.5in;
+    color: #bebe26;
+  }
+
+#cm {
+    font-size: 1cm;
+    line-height: 2cm;
+    color: #bebe26;
+  }
+
+#mm {
+    font-size: 5mm;
+    line-height: 10mm;
+    color: #bebe26;
+}
+
+#pt {
+    color: #bebe26;
+    font-size: 15pt;
+    line-height: 25pt;
+}
+
+#pc {
+    font-size: 1.5pc;
+    line-height: 3pc;
+    color: #bebe26;
+}
+
+#c {
+    color:greenyellow;
+    background-color: #4646c4;
+    font-size: 1.5cm;
+}
+
+#de {background-color: rgb(0,0,205);
+color:white;}   /* blue */
+
+#he {background-color: #ff0000;
+color:white;}   /* red */
+
+#po {
+    background-color :rgb(0, 255, 5);
+}
+
+#n {
+    background-color:hsla(122, 39%, 48%, 0.53)
+}
+
+#m {
+    background-color:rgba(44, 144, 155, 0.63)
+}
